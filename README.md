@@ -39,7 +39,7 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/alyssontrugilio/alyssontrugilio/output/snake.svg" alt="Snake animation" />
-
+<div>
+![Snake animation](https://github.com/alyssontrugilio/alyssontrugilio/blob/output/github-contribution-grid-snake.svg)
+</div>
 ###
