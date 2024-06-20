@@ -9,6 +9,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssontrugilio&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+<img src="https://raw.githubusercontent.com/alyssontrugilio/alyssontrugilio/output/snake.svg" alt="Snake animation" />
+
+###
+---
 [![](https://visitcount.itsvg.in/api?id=alyssontrugilio&icon=3&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
