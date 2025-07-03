@@ -1,7 +1,7 @@
 # 💫 About Me:
 🇺🇸 English 
 </br>  </br>
-👋 Hi! I’m Alysson Trugilio, a Junior Front-End Developer from Maringá, Brazil, currently studying Systems Analysis and Development at UniCesumar.
+👋 Hi! I’m Alysson Trugilio, a Front-End Developer from Maringá, Brazil, currently studying Systems Analysis and Development at UniCesumar.
 
 💻 I work with Flutter/Dart and Next.js + TypeScript, building web solutions focused on the fiscal (tax) sector, always aiming for performance, usability, and clean code.
 
@@ -11,7 +11,7 @@
 # 
 🇧🇷 Português
  </br> </br>
-👋 Olá! Sou Alysson Trugilio, desenvolvedor FrontEnd Júnior de Maringá/PR, atualmente cursando Análise e Desenvolvimento de Sistemas na UniCesumar.
+👋 Olá! Sou Alysson Trugilio, desenvolvedor FrontEnd de Maringá/PR, atualmente cursando Análise e Desenvolvimento de Sistemas na UniCesumar.
 
 💻 Trabalho com Flutter/Dart e Next.js + TypeScript, desenvolvendo soluções web voltadas para o setor fiscal, com foco em performance, usabilidade e código limpo.
 
