@@ -7,16 +7,16 @@
 </p>
 
 <p>
-  I build <strong>SaaS, AI agents and automation</strong> for businesses the tech market usually ignores — pet shops, auto shops, small operations that move the real economy.
+  I build <strong>SaaS, AI agents and automation</strong> — software that turns business problems into systems that run in production.
 </p>
 
 ---
 
 ### What I'm building
 
-🚀 **Founder @ [Coninuo](https://coninuo.com.br)** — AI-first management platform for pet shops. WhatsApp-native, with an AI assistant (Ninu) that handles customer conversations, agenda and operations.
+🚀 **Founder @ [Coninuo](https://coninuo.com.br)** — building an AI-first platform with conversational agents, WhatsApp integration and end-to-end operations.
 
-🔧 Previously: built vertical SaaS for the Brazilian fiscal and automotive markets.
+🔧 Previously: vertical SaaS, fiscal systems, admin panels, mobile apps and product integrations.
 
 ---
 
@@ -45,22 +45,22 @@
 
 ### Background that shapes how I code
 
-Started in **technical support inside Brazil's fiscal ecosystem**. Spent months listening to users describe problems they couldn't fully articulate. That sensitivity for the user's real pain is now my main asset as a developer — and as a founder.
+Started in technical support — spent months listening to users describe problems they couldn't fully articulate. That sensitivity for the user's real pain is now my main asset as a developer and as a founder.
 
 ---
 
 ### Let's talk
 
-If you're building SaaS, applying AI to real problems, or running a small business that needs better software — reach out.
+If you're building SaaS, applying AI to real problems, or have a business problem that needs to become software — reach out.
 
 <p>
-  <a href="https://www.linkedin.com/in/alyssontrugilio/">
+  <a href="https://www.linkedin.com/in/alysson-trugilio-34020518b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://coninuo.com.br">
     <img src="https://img.shields.io/badge/Coninuo-007579?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="mailto:alysson@coninuo.com.br">
+  <a href="mailto:alysson.trugilio.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
