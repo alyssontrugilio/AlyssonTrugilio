@@ -1,46 +1,77 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1>
+  Hey there 👋
+</h1>
 
-###
-
-<p align="left">My name is <strong>Alysson Trugilio</strong> and I'm a <strong>Full Stack Developer</strong> from <strong>Maringá, Brazil 🇧🇷</strong>.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">
-✨ Creating bugs since <strong>2021</strong><br>
-🎯 Goals: <strong>build scalable apps that solve real problems with simplicity and clarity</strong><br>
-🎲 Fun fact: <strong>I started in tech through technical support — understanding users before writing my first line of code</strong>
+<p>
+  I'm <strong>Alysson Trugilio</strong> — Founder & Full-Stack Developer based in Maringá, Brazil 🇧🇷
 </p>
 
-###
+<p>
+  I build <strong>SaaS, AI agents and automation</strong> for businesses the tech market usually ignores — pet shops, auto shops, small operations that move the real economy.
+</p>
 
-<h2 align="left">I code with</h2>
+---
 
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="prisma logo"  />
-</div>
+### What I'm building
 
-###
+🚀 **Founder @ [Coninuo](https://coninuo.com.br)** — AI-first management platform for pet shops. WhatsApp-native, with an AI assistant (Ninu) that handles customer conversations, agenda and operations.
+
+🔧 Previously: built vertical SaaS for the Brazilian fiscal and automotive markets.
+
+---
+
+### How I work
+
+- **Problem first. Tech second.**
+- Stack serves the result — not the trend.
+- AI applied where it solves real pain, not where it looks good on a slide.
+- Code the next dev can read, maintain and evolve.
+
+---
+
+### Stack
+
+**Frontend:** Next.js · React · Flutter · Dart · TypeScript  
+**Backend:** NestJS · Node.js · TypeScript  
+**Data:** PostgreSQL · Prisma · MongoDB  
+**AI & Automation:** OpenAI · Anthropic · n8n · WhatsApp Business API  
+**Infra:** Docker · AWS · Vercel
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,flutter,dart,nodejs,nestjs,postgres,prisma,docker" />
+</p>
+
+---
+
+### Background that shapes how I code
+
+Started in **technical support inside Brazil's fiscal ecosystem**. Spent months listening to users describe problems they couldn't fully articulate. That sensitivity for the user's real pain is now my main asset as a developer — and as a founder.
+
+---
+
+### Let's talk
+
+If you're building SaaS, applying AI to real problems, or running a small business that needs better software — reach out.
+
+<p>
+  <a href="https://www.linkedin.com/in/alyssontrugilio/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://coninuo.com.br">
+    <img src="https://img.shields.io/badge/Coninuo-007579?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="mailto:alysson@coninuo.com.br">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlyssonTrugilio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlyssonTrugilio&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyssonTrugilio&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
